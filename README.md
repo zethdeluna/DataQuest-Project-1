@@ -1,0 +1,3 @@
+# DataQuest-Project-1
+Data Analysis on Apple Store and Google Play data. The goal was to find an app profile that would be the most successful in both the Apple Store and Google Play markets based on data describing the apps currently available in those markets.
+This analysis is a guided project from DataQuest, and my first attempt at any data science project. DataQuest walked me through most of the code seen below, however I feel that I've learned a lot about the process of data cleaning. I relied less on the guides during the analysis section, and I feel that I've provided my own unique analysis of the data. Thanks for checking it out! — Zeth De Luna
